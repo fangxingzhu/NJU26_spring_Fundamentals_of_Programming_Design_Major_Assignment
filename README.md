@@ -133,16 +133,16 @@ gcc -std=c11 main.c sts_io.c -o game
 ## 🎓 课程信息
 
 - **课程**：程序设计基础（南京大学 2026 春）
-- **教师**：略
+- **教师**：南京大学计算机学院-刘奇志老师
 - **大作业要求**：基于 C 语言实现《杀戮尖塔》核心战斗机制，包括卡牌系统、敌人 AI、状态效果等
 - **扩展方向**：状态效果（Buff/Debuff）设计与实现
-- **AI 使用说明**：本项目的自动化测试集由 DeepSeek 辅助生成，核心游戏逻辑由作者独立完成
+- **AI 使用说明**：本项目的自动化测试集和本README由 DeepSeek 辅助生成，核心游戏逻辑由作者独立完成
 
 ---
 
 ## ✍️ 作者
 
-**方兴竹** / Fang Xingzhu  
+**方兴铸** / Fang Xingzhu  
 GitHub: [@fangxingzhu](https://github.com/fangxingzhu)
 
 ---
