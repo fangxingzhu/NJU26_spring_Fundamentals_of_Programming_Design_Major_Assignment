@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/fangxingzhu/Desktop/程序设计基础/ 大作业 杀戮刀塔/my project/cmake-build-debug",
+  "command": "/usr/bin/cc -I\"/Users/fangxingzhu/Desktop/程序设计基础/ 大作业 杀戮刀塔/my project/.\" -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/my_project.dir/sts_io.c.o -c \"/Users/fangxingzhu/Desktop/程序设计基础/ 大作业 杀戮刀塔/my project/sts_io.c\"",
+  "file": "/Users/fangxingzhu/Desktop/程序设计基础/ 大作业 杀戮刀塔/my project/sts_io.c",
+  "output": "/Users/fangxingzhu/Desktop/程序设计基础/ 大作业 杀戮刀塔/my project/cmake-build-debug/CMakeFiles/my_project.dir/sts_io.c.o"
+},
+{
+  "directory": "/Users/fangxingzhu/Desktop/程序设计基础/ 大作业 杀戮刀塔/my project/cmake-build-debug",
+  "command": "/usr/bin/cc -I\"/Users/fangxingzhu/Desktop/程序设计基础/ 大作业 杀戮刀塔/my project/.\" -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/my_project.dir/main.c.o -c \"/Users/fangxingzhu/Desktop/程序设计基础/ 大作业 杀戮刀塔/my project/main.c\"",
+  "file": "/Users/fangxingzhu/Desktop/程序设计基础/ 大作业 杀戮刀塔/my project/main.c",
+  "output": "/Users/fangxingzhu/Desktop/程序设计基础/ 大作业 杀戮刀塔/my project/cmake-build-debug/CMakeFiles/my_project.dir/main.c.o"
+}
+]
