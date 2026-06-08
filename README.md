@@ -144,10 +144,3 @@ gcc -std=c11 main.c sts_io.c -o game
 
 **方兴铸** / Fang Xingzhu  
 GitHub: [@fangxingzhu](https://github.com/fangxingzhu)
-
----
-
-*⚔️ 感谢您玩我的游戏！欢迎提出建议或报告 Bug。*
-```
-
-
