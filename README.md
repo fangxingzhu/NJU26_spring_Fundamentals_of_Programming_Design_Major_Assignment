@@ -53,7 +53,7 @@
 ```bash
 # 克隆仓库
 git clone https://github.com/fangxingzhu/NJU26_spring_Fundamentals_of_Programming_Design_Major_Assignment.git
-cd "my project"
+cd NJU26_spring_Fundamentals_of_Programming_Design_Major_Assignment
 
 # 使用 CMake 构建
 mkdir build && cd build
